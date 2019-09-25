@@ -1,0 +1,27 @@
+body {
+	background-image: url(background.png);
+	background-repeat: repeat-x;
+	font-family: comic sans ms;
+	line-height: 25px;
+}
+th {
+	color: teal;
+
+}
+
+a:link {
+	color: steelblue;
+	text-decoration: none;
+
+}
+
+a:visited {
+	color: tomato;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+a:hover {
+	color: springgreen;
+	font-size: medium;
+}

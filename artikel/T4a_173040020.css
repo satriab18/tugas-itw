@@ -1,0 +1,226 @@
+/* T4a_173040020.html */
+
+body {
+	background-image: url(images/bg.png);
+}
+
+.container {
+	width: 800px;
+	margin:auto;
+	background: whitesmoke;
+}
+
+.header {
+	padding: 20px;
+}
+
+.header .namaweb {
+	font-family: "Lucida console";
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+}
+
+.header ul li {
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: 15px;
+}
+
+.header a {
+	text-decoration: none;
+	color: salmon;
+}
+
+.header a:hover {
+	background-color: lightsteelblue;
+}
+
+.imagetitle {
+	height: 350px;
+	background-image: url(images/iphone.jpg);
+	background-size: cover;
+	background-position: 0 -15px ;
+	border-bottom: 5px solid lightsteelblue;
+	border-top: 5px solid salmon;
+}
+
+.content {
+	padding: 20px;
+
+}
+
+.content h2 {
+	font-size: 30px;
+	font-family: "comic sans ms"
+
+}
+
+.content .writer {
+	font-size: 13px;
+	margin-top: -10px;
+}
+
+.content .writer a {
+	color: lightsteelblue;
+	text-decoration: none;
+}
+
+.content .writer a:hover {
+	color: red;
+	text-decoration: underline;
+}
+.content p {
+	margin-bottom: 20px;
+	font-size: 15px;
+	text-indent: 15px;
+}
+
+div .bergambar {
+	display: inline-block;
+}
+
+.content .foto1 .img1  {
+	height: 200px;
+	width: 260px;
+	background-position: -5 -15px ;
+	border: 3px solid lightsteelblue;
+}
+
+.content .foto1 .img2  {
+	height: 200px;
+	width: 260px;
+	background-size: cover;
+	background-position: -5 -15px ;
+	border: 3px solid lightsteelblue;
+}
+
+.content .foto1 .img3  {
+	height: 200px;
+	width: 260px;
+	background-size: cover;
+	background-position: -5 -15px ;
+	border: 3px solid lightsteelblue;
+}
+
+.content .foto2 .img4  {
+	height: 200px;
+	width: 320px;
+	background-size: cover;
+	background-position: -5 -15px ;
+	border: 3px solid lightsteelblue;
+}
+
+.content .foto2 .img5  {
+	height: 200px;
+	width: 320px;
+	background-size: cover;
+	background-position: -5 -15px ;
+	border: 3px solid lightsteelblue;
+}
+
+.content .foto3 .img6  {
+	height: 200px;
+	width: 320px;
+	background-size: cover;
+	background-position: -5 -15px ;
+	border: 3px solid lightsteelblue;
+}
+
+.content .foto3 .img7  {
+	height: 200px;
+	width: 320px;
+	background-size: cover;
+	background-position: -5 -15px ;
+	border: 3px solid lightsteelblue;
+}
+
+.content .foto4 .img8 {
+	height: 200px;
+	width: 320px;
+	background-size: cover;
+	background-position: -5 15px;
+	border: 3px solid lightsteelblue;
+}
+
+.content .foto4 .img9 {
+	height: 200px;
+	width: 320px;
+	background-size: cover;
+	background-position: -5 15px;
+	border: 3px solid lightsteelblue;
+}
+
+.content .foto5 .img10 {
+	height: 200px;
+	width: 320px;
+	background-size: cover;
+	background-position: -5 15px;
+	border: 3px solid lightsteelblue;
+}
+.content .foto5 .img11 {
+	height: 200px;
+	width: 320px;
+	background-size: cover;
+	background-position: -5 15px;
+	border: 3px solid lightsteelblue;
+}
+
+.content .fotofooter .imgfooter {
+	height: 200px;
+	width: 320px;
+	background-size: cover;
+	background-position: -5 15px;
+	border: 3px solid lightsteelblue;
+}
+
+.footer {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: lightsteelblue;
+	font-size: 13px;
+}
+
+
+/* index.html */
+
+.content .banner {
+	height: 150px;
+	width: 250px;
+	background-size: cover;
+	background-position: -5 15px;
+	border: 3px solid lightsteelblue;
+	text-align: left;
+}
+
+.content ul li {
+	display: inline-block;
+	text-indent: 5px;
+}
+
+.content .judul a {
+	color: salmon;
+	text-decoration: none;
+}
+
+.content .judul a:hover {
+	background-color: lightsteelblue;
+	text-decoration: underline;
+}
+
+/* contact */
+
+.content .link {
+	font-size: 15px;
+}
+
+.content .contact a {
+	color: salmon;
+	text-decoration: none;
+}
+
+.content .contact a:hover {
+	color:lightsteelblue;
+	text-decoration:underline;
+}
